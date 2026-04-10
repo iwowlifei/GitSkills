@@ -1,2 +1,3 @@
 Creating a newe branch is quick AND simple.
 test.
+fixed bug.
